@@ -1,34 +1,34 @@
 {
   "people": [
     {
-      "name": "Suchanda Datta",
+      "name": "John Smith",
       "PIN": 2272,
       "acc_number": 1,
       "acc_balance": 1959800
     },
     {
-      "name": "Avilash Ghosh",
+      "name": "Mohan Das",
       "PIN": 7001,
       "acc_number": 2,
       "acc_balance": 600700
     },
     {
-      "name": "Rudrava Mukherjee",
+      "name": "Amanda White",
       "PIN": 2001,
       "acc_number": 3,
       "acc_balance": 0
     },
     {
-      "name": "Purab Kumar Sharma",
+      "name": "Ravi Raj",
       "PIN": 1999,
       "acc_number": 4,
       "acc_balance": 400300
     },
     {
-      "name": "Ankita Prasad",
+      "name": "Hope Green",
       "PIN": 1301,
       "acc_number": 5,
-      "acc_balance": 0
+      "acc_balance": 146690
     }
   ]
 }
