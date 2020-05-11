@@ -1,0 +1,34 @@
+{
+  "people": [
+    {
+      "name": "Suchanda Datta",
+      "PIN": 2272,
+      "acc_number": 1,
+      "acc_balance": 1959800
+    },
+    {
+      "name": "Avilash Ghosh",
+      "PIN": 7001,
+      "acc_number": 2,
+      "acc_balance": 600700
+    },
+    {
+      "name": "Rudrava Mukherjee",
+      "PIN": 2001,
+      "acc_number": 3,
+      "acc_balance": 0
+    },
+    {
+      "name": "Purab Kumar Sharma",
+      "PIN": 1999,
+      "acc_number": 4,
+      "acc_balance": 400300
+    },
+    {
+      "name": "Ankita Prasad",
+      "PIN": 1301,
+      "acc_number": 5,
+      "acc_balance": 0
+    }
+  ]
+}
